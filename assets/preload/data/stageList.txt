@@ -7,3 +7,7 @@ mallEvil
 school
 schoolEvil
 tank
+CrossedOut Stage_BackUp
+CrossedOut Stage_True
+CrossedOut Stage_True��
+TutorialStage
