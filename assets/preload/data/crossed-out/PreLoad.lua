@@ -14,7 +14,6 @@ function onCreate()
     --Characters--
 
     --Bg and Effects High Quality--
- 
-  end
+
     --Amogusyta--
 end
